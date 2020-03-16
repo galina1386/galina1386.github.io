@@ -1,0 +1,91 @@
+h1,h2 {
+  color: RED; /* Цвет заголовка */
+}
+text.thick {
+  font-weight: bold;
+}
+text.thick2{
+  font-style: italic;
+  font-family: Arial, "Times New Roman", sans-serif;
+
+}
+span {
+  font-weight: bold;
+}
+
+a:link {
+  color: rgb(100%,0%,0%)
+}
+a:hover {
+    color: rgb(5%,75%,5%)
+}
+body{
+ background-color: pink;
+}
+ .title {
+  background-color:pink;
+  border:0px solid;
+  padding: 10px 20px 10px 400px;
+  margin: auto;
+
+}
+
+.one {
+ background-color:pink;
+ border:0px solid ;
+ border-radius: 5px;
+ padding: 10px 20px 10px 80px;
+ margin: 10px 400px;
+ width: 400px;
+height: 150px;
+}
+
+
+.two {
+ background-color:pink;
+ border:2px solid black;
+ border-radius: 5px;
+ padding: 10px 20px 10px 80px;
+ margin: 10px 400px;
+ width: 400px;
+height: 150px;
+
+
+
+}
+
+.three {
+ background-color:pink;
+ border:2px solid black;
+ border-radius: 5px;
+ padding: 10px 20px 10px 80px;
+ margin: 10px 400px;
+ width: 400px;
+height: 300px;
+
+
+}
+
+.four {
+ background-color:pink;
+ border:2px solid black;
+ border-radius: 5px;
+ padding: 10px 20px 10px 80px;
+ margin: 15px 400px;
+ width: 400px;
+height: 300px;
+
+}
+table{
+  
+  empty-cells:hide;
+  border-spacing:50px;
+  border-collapse:collapse;
+  margin: 15px 400px;
+}
+td{
+  border:1px solid black;
+  width:400px;
+  height:20px;
+  padding:15px;
+}
